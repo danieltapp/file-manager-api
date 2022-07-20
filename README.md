@@ -1,5 +1,3 @@
-# Node/Express/TypeScript Starter
-
-Basic starter for a Node/Express/TypeScript app, with `dotenv`, ESLint, Prettier, and Nodemon configuration already completed.
+# Test project for getting sharper w/ Prisma & GraphQL
 
 To run in watch mode, `npm run dev`.
